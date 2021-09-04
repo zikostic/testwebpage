@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 TEST delete [[goto Page 2](page2.md) ]
 
-TEST delete [[goto Page 3 which is html](page3.html) ] page3.html
+TEST delete [[goto Page 3 which is html](page3.html) ]
