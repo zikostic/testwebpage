@@ -5,6 +5,8 @@
  </tr>
 </table>
 
+TEST delete [[goto Page 2](page2.md) ]
+
 
 
 This is the second page
