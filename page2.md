@@ -1,11 +1,11 @@
 <table border="4">
  <tr>
-    <td>E4040  [[goto Page ](index.html) ]    </td>
+    <td>E4040  [[goto Page ](index.md) ]    </td>
     <td>E4750</td>
  </tr>
 </table>
 
-TEST delete [[goto Page 2](page2.md) ]
+TEST delete [[goto Page index](index.md) ]
 
 
 
