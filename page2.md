@@ -7,6 +7,8 @@
 
 TEST delete [[goto Page index](index.md) ]
 
+[[Home](index.md) ]    [[Research](index.md) ]     [[Courses](index.md) ] 
+
 
 
 This is the second page
