@@ -12,9 +12,9 @@ Course in a nutshell:
 
  Theoretical underpinnings and practical aspects of Neural Networks and Deep Learning. Convolutional and Recurrent Neural Networks. Focus on applications and projects.
 
-Bulletin Description:
+**Bulletin Description:**
 
-    Developing features & internal representations of the world, artificial neural networks, classifying handwritten digits with logistics regression, feedforward deep networks, back propagation in multilayer perceptrons, regularization of deep or distributed models, optimization for training deep models, convolutional neural networks, recurrent and recursive neural networks, deep learning in speech and object recognition.
+Developing features & internal representations of the world, artificial neural networks, classifying handwritten digits with logistics regression, feedforward deep networks, back propagation in multilayer perceptrons, regularization of deep or distributed models, optimization for training deep models, convolutional neural networks, recurrent and recursive neural networks, deep learning in speech and object recognition.
 
 Time:
 
