@@ -1,6 +1,6 @@
 <table border="4">
  <tr>
-    <td>E4040</td>
+    <td>E4040  [[goto Page ](index.html) ]    </td>
     <td>E4750</td>
  </tr>
 </table>
